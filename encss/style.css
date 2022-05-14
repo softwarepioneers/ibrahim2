@@ -10,7 +10,7 @@ body{
     background-color: white;
     border: none;
     font-weight: bold;
-	    font-size: 40px;
+	    font-size: 20px;
     border-bottom: 1px solid #EEEEEE;
     padding-top: 10px;
     padding-bottom: 15px;
@@ -173,6 +173,7 @@ body{
     background-color: white;
     border: 1px solid #FF7766;
     border-radius: 3px;
+	    font-size: 20px;
 }
 
 
