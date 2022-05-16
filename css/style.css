@@ -774,6 +774,7 @@ body{
      color: #FF7766;
      background-color: white;
      border-bottom: 1px solid #FF7766;
+     font-size: 16px;
 }
 
 .custom-navbar .navbar-nav > li > a:hover,
