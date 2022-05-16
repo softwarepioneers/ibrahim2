@@ -23,7 +23,7 @@ body{
 .custom-navbar .navbar-nav > li > a{    
     transition-property: background-color;
     transition-duration: 0.3s;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .custom-navbar .navbar-nav .active  a{    
