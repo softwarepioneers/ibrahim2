@@ -8,7 +8,7 @@ $( document ).ready(function() {
         },
         function(){
             $(this).find('.caption2').slideUp(250); //.fadeOut(205)
-            $(this).find('.project-category').show();
+            $(this).find('.project-category').show(); // then show project catagory
         }
     ); 
 });
